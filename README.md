@@ -1,2 +1,2 @@
 # ScanShot
-ScanShot is a multi-threaded network scanning and web service discovery tool that identifies open ports, detects HTTP/HTTPS services, and captures screenshots of accessible web pages.
+ScanShot is a multi-threaded network scanning and web service discovery tool that identifies open ports, detects HTTP/HTTPS services, and captures screenshots of accessible web pages. Built with Python, it uses Nmap for network scanning, Selenium for browser automation, and aiohttp for asynchronous HTTP requests. With real-time progress tracking, ScanShot helps security professionals quickly analyze subnets and document exposed services visually.
