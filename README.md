@@ -15,7 +15,7 @@ pip (Python package manager)
   pip install -r requirements.txt
 
 **Usage**
-  Once the dependencies are installed, you can run ScanShot as follows:
+Once the dependencies are installed, you can run ScanShot as follows:
   
   Run the Tool
   Execute the Python script to start scanning:
