@@ -1,6 +1,0 @@
-nmap
-requests
-aiohttp
-selenium
-webdriver-manager
-tqdm
