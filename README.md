@@ -5,16 +5,16 @@ Before installing and running ScanShot, ensure you have the following installed:
 Python 3.7 or higher
 pip (Python package manager)
 
-Clone the Repository
+**Clone the Repository**
   First, clone the GitHub repository to your local machine:
   git clone https://github.com/yourusername/scanshot.git
   cd scanshot
 
-Install Dependencies:
+**Install Dependencies:**
   Install all required Python packages by using the requirements.txt file:
   pip install -r requirements.txt
 
-Usage
+**Usage**
   Once the dependencies are installed, you can run ScanShot as follows:
   
   Run the Tool
@@ -32,7 +32,7 @@ Usage
   Enter the subnet (e.g., 192.168.1.0/24): 192.168.1.0/24
   The tool will display the progress of scanning and notify you when each scan is completed. Screenshots of detected web services will be saved to the screenshots directory.
 
-Features
+**Features**
 Multi-threaded Scanning: Faster scanning across multiple hosts using concurrent threads.
 HTTP/HTTPS Detection: Identifies web services running on open ports.
 Screenshot Capture: Automatically takes screenshots of accessible web pages.
